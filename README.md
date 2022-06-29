@@ -9,13 +9,13 @@ A terminal-based morse code translator written in Python. The translations (in `
 
     `git clone https://github.com/yees7/morse-code-translator`
 
-1. Open the directory the repository it is in:
+1. Open the directory the repository is in:
 
     `cd morse-code-translator`
 
 ## How to use the translator
 
-Open Git Bash if it isn't already (type `bash` in command line), then type this to execute the program:
+Open Git Bash if it isn't already (type `bash` in command line), then type `./shell.sh` to execute the program:
 
 ```txt
 $ ./shell.sh
